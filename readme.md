@@ -1,5 +1,5 @@
 Documentation of  
-the incompetence, aggression, harassment,  
+the [incompetence](http://www.adrforum.com/Domaindecisions/1765496.htm), aggression, harassment,  
 and other delightful side effects of working with  
 greedy, fragile, egotistical, self-serving narcissists.  
 
