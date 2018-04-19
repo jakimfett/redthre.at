@@ -22,7 +22,7 @@ Also, context matters.
 
 ## MAJOR GRIEVANCE(S)
 I literally said, in a Founding Four meeting, that:  
-`I trust youto take care of the management and HR and payroll stuff if that allows me to focus on my tech stuff`.  
+`I trust you to take care of the management and HR and payroll stuff if that allows me to focus on my tech stuff`.  
 This was cheered on, and yet literally every single responsibility I offloaded was botched, mishandled, or ignored within a week.
 
 > As far as trust goes:  
