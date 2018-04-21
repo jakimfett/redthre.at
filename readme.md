@@ -5,7 +5,7 @@ greedy, fragile, egotistical, self-serving narcissists.
 
 > ...who also are also not-so-low-key trump-supporting, everything-that-is-not-cis-white-male-phobic, white supremacists.
 
-# redthre.at
+# http://redthre.at
 Seriously, why would you shut off the automated, multi-tiered backups of company and customer data, AND THEN STOP PAYING FOR All YOUR HOSTING.  
 > If nothing else, it displays a gross incompetence and lack of understanding about modern business methodologies.  
 
